@@ -38,7 +38,7 @@ pip install pandas scikit-learn seaborn
 1-Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/ahmetygtozay/CustomerSegmentation>
 ```
 2-Open the Jupyter Notebook "CustomerSegmentation.ipynb" using Jupyter Notebook or Jupyter Lab.
 3-Run the notebook cells to execute the code and perform customer segmentation using K-means and visualize the results with Seaborn.
